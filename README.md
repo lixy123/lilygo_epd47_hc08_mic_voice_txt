@@ -6,22 +6,18 @@ LilyGo-EPD47 麦克风语音记事留言
      语音留言，利用到了百度语音转换文字的服务，识别出的文字显示到墨水屏,墨水屏断电后不影响继续显示能力<br/>
      每段录音最长10秒(可调长), 一次记事约40-50字上下,正好一屏,基本够用. 平均一段录音的文字识别时间约2-5秒，取决于网络速度<br/>
      这是简化DEMO版本, 高级版本可设计记录很多留言,按日期定位,通过按钮翻页显示等，视情况决定是否继续开发<br/>
-<br/>
 <b>二.硬件</b> <br/>
    1.LILYGO® T5-4.7 inch E-paper ESP32 电子墨水屏<br/>
-       资料位置:  https://github.com/Xinyuan-LilyGO/LilyGo-EPD47<br/>
-       
+       资料位置:  https://github.com/Xinyuan-LilyGO/LilyGo-EPD47<br/>       
    2.上述电子墨水屏专用的 HC08+MIC 模块<br/>
          lilygo-epd47  PDM麦克风<br/>
              VCC3.3    VCC<br/>
              GND       GND<br/>
              12        MIC_DATA<br/>
              13        MIC_CLOCK<br/>
-
-<br/>
 效果图<br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_1.jpg?raw=true' /> <br/>
-<img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_2.jpg?raw=true' /> <br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_1.jpg?raw=true' />
+<img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_2.jpg?raw=true' />
 <br/>
 <b>三.软件</b><br/>
 软件: arduino 1.8.13<br/>
