@@ -33,7 +33,8 @@ https://github.com/ivanseidel/LinkedList 最新版本<br/>
 
 <br/>
 <b>四.用法</b><br/>
-  1.配置: ESP32首次运行时会自动初始化内置参数,自动进入路由器模式,创建一个ESP32SETUP的路由器，电脑连接此路由输入http://192.168.4.1 进行配置<br/>
+ <b> 1.配置</b><br/>
+  ESP32首次运行时会自动初始化内置参数,自动进入路由器模式,创建一个ESP32SETUP的路由器，电脑连接此路由输入http://192.168.4.1 进行配置<br/>
     A.esp32连接的路由器和密码<br/>
     B.百度语音的账号校验码<br/>
       baidu_key: 一个账号字串       (必须注册获得)<br/>
@@ -45,7 +46,8 @@ https://github.com/ivanseidel/LinkedList 最新版本<br/>
       define_avg1 每0.5秒声音均值（感应人声判断）<br/>
       define_max2 每0.5秒声音峰值（录音中静音判断）<br/>
       define_avg3 每0.5秒声音均值（录音中静音判断）<br/>
-  2.运行：<br/>
+      
+ <b> 2.运行</b><br/>
     A.上电或按RESET按钮<br/>
     B.对着墨水屏说话<br/>
     C.墨水屏将语音识别出来的文字显示<br/>
