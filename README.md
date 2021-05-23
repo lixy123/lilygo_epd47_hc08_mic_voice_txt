@@ -19,6 +19,9 @@ LilyGo-EPD47 麦克风语音记事留言
 效果图<br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_1.jpg?raw=true' /><br/>
 <img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/mic_2.jpg?raw=true' /><br/>
+<img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/IMG_20210523_121107.jpg?raw=true' /><br/>
+
+
 <br/>
 <b>三.软件</b><br/>
 软件: arduino 1.8.13<br/>
