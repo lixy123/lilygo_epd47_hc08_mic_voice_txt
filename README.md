@@ -22,7 +22,7 @@ LilyGo-EPD47 麦克风语音记事留言
 <img src= 'https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/IMG_20210523_121107.jpg?raw=true' /><br/>
 
 演示视频地址<br/>
-  https://github.com/lixy123/lilygo_epd47_hc08_mic_voice_txt/blob/main/test2020523.avi <br/>
+  https://github.com/lixy123/LilyGo-EPD47-SPI-Raspberry/blob/main/test20211128.avi <br/>
 
 <br/>
 <b>三.软件</b><br/>
